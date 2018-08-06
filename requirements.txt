@@ -1,0 +1,8 @@
+scipy==1.1.0
+tqdm==4.23.4
+numpy==1.14.3
+scikit-image==0.13.1
+pandas==0.23.0
+imutils==0.4.6
+opencv-python==3.4.2.17
+opencv-contrib-python
